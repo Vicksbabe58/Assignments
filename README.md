@@ -2,6 +2,12 @@
 
 **Task A and B**
 
+## Stack
+
+<p>Stack: HTML, CSS, JAVASCRIPT</p>
+
+# Replit Links
+
 ### _Portfolio Pages_
 
 <a href="https://replit.com/@VictoryBen/A-Bio-About-Me-?v=1" target="_blank">Click Here</a>
