@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+@media screen and (max-width: 420px) {
+  body {
+    max-width: 374px;
+  }
+  .container {
+    width: 374px;
+  }
+}
+
+body {
+  max-width: 1440px;
+  height: 100%;
+  background-color: hsl(0, 0%, 95%);
+}
+h1 {
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: hsl(0, 0%, 95%);
+}
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  margin-bottom: 30px;
+}
+img {
+  margin-bottom: 10px;
+}
+button {
+  width: 80%;
+  padding: 10px;
+  margin: 10px auto;
+  background-color: transparent;
+  color: hsl(0, 0%, 95%);
+  border: 2px solid #ffffffbf;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: 700;
+  transition: all 200ms ease;
+}
+button:hover {
+  background-color: transparent;
+  border: 2px solid #f1eaea;
+  cursor: pointer;
+}
+a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+}
+.container {
+  margin: 1rem auto;
+  margin-top: 4rem;
+  width: 100vw;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  margin: 1rem auto;
+  width: 55rem;
+}
+.main {
+  text-align: justify;
+  gap: 2.5rem;
+  margin: 2.5rem auto;
+  line-height: 1.5rem;
+  font-size: 15px;
+  padding: 3rem;
+  border-radius: 4px;
+}
+.main-one {
+  background-color: hsl(31, 77%, 52%);
+  width: 20rem;
+  height: 18rem;
+}
+.main-two {
+  background-color: hsl(184, 100%, 22%);
+  width: 20rem;
+  height: 18rem;
+}
+.main-three {
+  background-color: hsl(179, 100%, 13%);
+  width: 20rem;
+  height: 18rem;
+}
+/*  max-width: 68rem;
+  margin: 2.5rem auto;
+  text-align: center;
+  text-align: justify;
+  max-width: 68rem;
+  */
+/*align-items: center;
+  justify-content: center;
+  */
