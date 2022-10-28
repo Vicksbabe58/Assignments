@@ -2,6 +2,10 @@
 
 **Task A **
 
+ ## Stack
+
+<p>Stack: HTML, CSS, JAVASCRIPT</p>
+
 ### _Grid and Flexbox_
 
 <a href="https://replit.com/@VictoryBen/Flexbox-and-grid?v=1" target="_blank">Click Here</a>
