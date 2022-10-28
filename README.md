@@ -2,10 +2,13 @@
 
 **Task A and B**
 
-### _Portfolio Pages_
+### _Grid and Flexbox_
 
-<a href="https://replit.com/@VictoryBen/A-Bio-About-Me-?v=1" target="_blank">Click Here</a>
+<a href="https://replit.com/@VictoryBen/Flexbox-and-grid?v=1" target="_blank">Click Here</a>
 
-### _Registration Pages_
+# Concepts Learned
 
-<a href="https://replit.com/@VictoryBen/Registration-Page?v=1" target="_blank">Click Here</a>
+* Responsive Web Design
+* Working with svgs
+* Use of Grid for entire page layout
+* Use of Flexbox to Position/aligm items
