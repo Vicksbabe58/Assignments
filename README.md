@@ -18,9 +18,9 @@
 
 # Concepts Learned
 
-~Form Validation
-*Patterns
-~Responsive Designs
-*Use Of Icons
-~Creating Responsive Navbars
-\*Use of Images
+* Form Validation
+* Patterns
+* Responsive Designs
+* Use Of Icons
+* Creating Responsive Navbars
+* Use of Images
